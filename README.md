@@ -28,7 +28,6 @@ Ensure your directory structure resembles the following:
 ### **compose.yml**
 
 ```yaml
-version: '3.8'
 
 services:
 
